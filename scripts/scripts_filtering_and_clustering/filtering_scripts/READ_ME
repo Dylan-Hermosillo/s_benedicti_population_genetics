@@ -30,8 +30,10 @@ Step 7 script: get quality metrics table for VCF output by step 6
         PlotVCFQualityScores_SNPVCF_Filtered_Final.R
         PlotVCFQualityScores_SNPVCF_Filtered_Final_log10.R
 
-The R scripts are used for plotting before filtration, after low quality site filtration, and after low depth site filtration,
+The R scripts are used for plotting before filtration, after low quality site filtration (step 3 output), and after low depth site filtration (step 6 output),
 and there are two versions for each step: one produces normal plots for each quality metric along with some "zoomed in", and one that produces
 log-base 10 transformation-based plots of the quality metrics.
 
 The output of the non-log 10 R scripts are images of the plots generated. These are located in the plots subdirectory
+
+GetSNPCounts.sh was used to get the number of SNPs reported in the VCF file pre-filtration, post-low quality site filtration, and post-low depth site filtration.
