@@ -1,0 +1,137 @@
+﻿#,Directory,New_R1,New_R2,Original_R1,Original_R2,Sample_Name,Dev_Type,Sex,Coast,Location,SampleID
+1,Bar_L,Bar_L_F01_R1.fastq,Bar_L_F01_R2.fastq,Bar_J_L_S3_L003_R1_001_trimmed.fastq.gz,Bar_J_L_S3_L003_R2_001_trimmed.fastq.gz,Bar_J_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F01_R1.fastq
+2,Bar_L,Bar_L_F02_R1.fastq,Bar_L_F02_R2.fastq,Bar_L_L_S4_L003_R1_001_trimmed.fastq.gz,Bar_L_L_S4_L003_R2_001_trimmed.fastq.gz,Bar_L_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F02_R1.fastq
+3,Bar_L,Bar_L_F03_R1.fastq,Bar_L_F03_R2.fastq,Bar_H_L_S5_L003_R1_001_trimmed.fastq.gz,Bar_H_L_S5_L003_R2_001_trimmed.fastq.gz,Bar_H_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F03_R1.fastq
+4,Bar_L,Bar_L_F04_R1.fastq,Bar_L_F04_R2.fastq,Bar_O_L_S6_L003_R1_001_trimmed.fastq.gz,Bar_O_L_S6_L003_R2_001_trimmed.fastq.gz,Bar_O_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F04_R1.fastq
+5,Bar_L,Bar_L_F05_R1.fastq,Bar_L_F05_R2.fastq,Bar_R1_L_S7_L003_R1_001_trimmed.fastq.gz,Bar_R1_L_S7_L003_R2_001_trimmed.fastq.gz,Bar_R1_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F05_R1.fastq
+6,Bar_L,Bar_L_F06_R1.fastq,Bar_L_F06_R2.fastq,Bar_X1_L_S8_L003_R1_001_trimmed.fastq.gz,Bar_X1_L_S8_L003_R2_001_trimmed.fastq.gz,Bar_X1_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F06_R1.fastq
+7,Bar_L,Bar_L_F07_R1.fastq,Bar_L_F07_R2.fastq,Bar_RH_L_S14_L003_R1_001_trimmed.fastq.gz,Bar_RH_L_S14_L003_R2_001_trimmed.fastq.gz,Bar_RH_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F07_R1.fastq
+8,Bar_L,Bar_L_F08_R1.fastq,Bar_L_F08_R2.fastq,Bar_P2_L_S10_L003_R1_001_trimmed.fastq.gz,Bar_P2_L_S10_L003_R2_001_trimmed.fastq.gz,Bar_P2_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F08_R1.fastq
+9,Bar_L,Bar_L_F09_R1.fastq,Bar_L_F09_R2.fastq,Bar_V2_L_S11_L003_R1_001_trimmed.fastq.gz,Bar_V2_L_S11_L003_R2_001_trimmed.fastq.gz,Bar_V2_L,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F09_R1.fastq
+10,Bar_L,Bar_L_F10_R1.fastq,Bar_L_F10_R2.fastq,BAR523L_D_S86_L003_R1_001_trimmedF.fastq.gz,BAR523L_D_S86_L003_R2_001_trimmedF.fastq.gz,BAR523L_D,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F10_R1.fastq
+11,Bar_L,Bar_L_F11_R1.fastq,Bar_L_F11_R2.fastq,BAR523L_H_S85_L003_R1_001_trimmedF.fastq.gz,BAR523L_H_S85_L003_R2_001_trimmedF.fastq.gz,BAR523L_H,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F11_R1.fastq
+12,Bar_L,Bar_L_F12_R1.fastq,Bar_L_F12_R2.fastq,BAR523L_F_S84_L003_R1_001_trimmedF.fastq.gz,BAR523L_F_S84_L003_R2_001_trimmedF.fastq.gz,BAR523L_F,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F12_R1.fastq
+13,Bar_L,Bar_L_F13_R1.fastq,Bar_L_F13_R2.fastq,BAR523L_C_S83_L003_R1_001_trimmedF.fastq.gz,BAR523L_C_S83_L003_R2_001_trimmedF.fastq.gz,BAR523L_C,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F13_R1.fastq
+14,Bar_L,Bar_L_F14_R1.fastq,Bar_L_F14_R2.fastq,BAR523L_N_S104_L003_R1_001_trimmedF.fastq.gz,BAR523L_N_S104_L003_R2_001_trimmedF.fastq.gz,BAR523L_N,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F14_R1.fastq
+15,Bar_L,Bar_L_F15_R1.fastq,Bar_L_F15_R2.fastq,BAR523L_M_S81_L003_R1_001_trimmedF.fastq.gz,BAR523L_M_S81_L003_R2_001_trimmedF.fastq.gz,BAR523L_M,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F15_R1.fastq
+16,Bar_L,Bar_L_F16_R1.fastq,Bar_L_F16_R2.fastq,BAR523L_I_S82_L003_R1_001_trimmedF.fastq.gz,BAR523L_I_S82_L003_R2_001_trimmedF.fastq.gz,BAR523L_I,L,female,Atlantic,"Barnegat Bay, NJ",Bar_L_F16_R1.fastq
+17,Bar_P,Bar_P_F01_R1.fastq,Bar_P_F01_R2.fastq,Bar_Z1_P_S1_L003_R1_001_trimmed.fastq.gz,Bar_Z1_P_S1_L003_R2_001_trimmed.fastq.gz,Bar_Z1_P,P,female,Atlantic,"Barnegat Bay, NJ",Bar_P_F01_R1.fastq
+18,Bar_P,Bar_P_F02_R1.fastq,Bar_P_F02_R2.fastq,Bar_SI_head_P_S2_L003_R1_001_trimmed.fastq.gz,Bar_SI_head_P_S2_L003_R2_001_trimmed.fastq.gz,Bar_SI(head)_P,P,female,Atlantic,"Barnegat Bay, NJ",Bar_P_F02_R1.fastq
+19,Bar_P,Bar_P_F03_R1.fastq,Bar_P_F03_R2.fastq,Bar_MCX2_P_S12_L003_R1_001_trimmed.fastq.gz,Bar_MCX2_P_S12_L003_R2_001_trimmed.fastq.gz,Bar_MCX#2_P,P,female,Atlantic,"Barnegat Bay, NJ",Bar_P_F03_R1.fastq
+20,Bar_P,Bar_P_F04_R1.fastq,Bar_P_F04_R2.fastq,Bar_MCXx3_P_S13_L003_R1_001_trimmed.fastq.gz,Bar_MCXx3_P_S13_L003_R2_001_trimmed.fastq.gz,Bar_MCXx#3_P,P,female,Atlantic,"Barnegat Bay, NJ",Bar_P_F04_R1.fastq
+21,Beau,Beau_P_U01_R1.fastq,Beau_P_U01_R2.fastq,Beaufort_17_S102_L003_R1_001_trimmedF.fastq.gz,Beaufort_17_S102_L003_R2_001_trimmedF.fastq.gz,Beaufort_17,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U01_R1.fastq
+22,Beau,Beau_P_U02_R1.fastq,Beau_P_U02_R2.fastq,Beaufort_15_S101_L003_R1_001_trimmedF.fastq.gz,Beaufort_15_S101_L003_R2_001_trimmedF.fastq.gz,Beaufort_15,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U02_R1.fastq
+23,Beau,Beau_P_U03_R1.fastq,Beau_P_U03_R2.fastq,Beaufort_14_S100_L003_R1_001_trimmedF.fastq.gz,Beaufort_14_S100_L003_R2_001_trimmedF.fastq.gz,Beaufort_14,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U03_R1.fastq
+24,Beau,Beau_P_U04_R1.fastq,Beau_P_U04_R2.fastq,Beaufort_7_S98_L003_R1_001_trimmedF.fastq.gz,Beaufort_7_S98_L003_R2_001_trimmedF.fastq.gz,Beaufort_7,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U04_R1.fastq
+25,Beau,Beau_P_U05_R1.fastq,Beau_P_U05_R2.fastq,Beaufort_6_S97_L003_R1_001_trimmedF.fastq.gz,Beaufort_6_S97_L003_R2_001_trimmedF.fastq.gz,Beaufort_6,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U05_R1.fastq
+26,Beau,Beau_P_U06_R1.fastq,Beau_P_U06_R2.fastq,Beaufort_4_S96_L003_R1_001_trimmedF.fastq.gz,Beaufort_4_S96_L003_R2_001_trimmedF.fastq.gz,Beaufort_4,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U06_R1.fastq
+27,Beau,Beau_P_U07_R1.fastq,Beau_P_U07_R2.fastq,Beaufort_3_S95_L003_R1_001_trimmedF.fastq.gz,Beaufort_3_S95_L003_R2_001_trimmedF.fastq.gz,Beaufort_3,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U07_R1.fastq
+28,Beau,Beau_P_U08_R1.fastq,Beau_P_U08_R2.fastq,Beaufort_2_S94_L003_R1_001_trimmedF.fastq.gz,Beaufort_2_S94_L003_R2_001_trimmedF.fastq.gz,Beaufort_2,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U08_R1.fastq
+29,Beau,Beau_P_U09_R1.fastq,Beau_P_U09_R2.fastq,Beaufort_1_S93_L003_R1_001_trimmedF.fastq.gz,Beaufort_1_S93_L003_R2_001_trimmedF.fastq.gz,Beaufort_1,P,unknown,Atlantic,"Beaufort, NC",Beau_P_U09_R1.fastq
+30,Clam,Clam_L_F01_R1.fastq,Clam_L_F01_R2.fastq,Clam9_L_F_S30_L001_R1_001_trimmed.fastq.gz,Clam9_L_F_S30_L001_R2_001_trimmed.fastq.gz,Clam9_L_F,L,female,Atlantic,"Clam Beach, SC",Clam_L_F01_R1.fastq
+31,Clam,Clam_L_F02_R1.fastq,Clam_L_F02_R2.fastq,Clam10_L_F_S31_L001_R1_001_trimmed.fastq.gz,Clam10_L_F_S31_L001_R2_001_trimmed.fastq.gz,Clam10_L_F,L,female,Atlantic,"Clam Beach, SC",Clam_L_F02_R1.fastq
+32,Clam,Clam_U01_R1.fastq,Clam_U01_R2.fastq,Clam12_S32_L001_R1_001_trimmed.fastq.gz,Clam12_S32_L001_R2_001_trimmed.fastq.gz,Clam12,unknown,unknown,Atlantic,"Clam Beach, SC",Clam_U01_R1.fastq
+33,Clam,Clam_U02_R1.fastq,Clam_U02_R2.fastq,Clam13_S33_L001_R1_001_trimmed.fastq.gz,Clam13_S33_L001_R2_001_trimmed.fastq.gz,Clam13,unknown,unknown,Atlantic,"Clam Beach, SC",Clam_U02_R1.fastq
+34,Clam,Clam_U03_R1.fastq,Clam_U03_R2.fastq,Clam14_S34_L001_R1_001_trimmed.fastq.gz,Clam14_S34_L001_R2_001_trimmed.fastq.gz,Clam14,unknown,unknown,Atlantic,"Clam Beach, SC",Clam_U03_R1.fastq
+35,Clam,Clam_U04_R1.fastq,Clam_U04_R2.fastq,Clam15_S35_L001_R1_001_trimmed.fastq.gz,Clam15_S35_L001_R2_001_trimmed.fastq.gz,Clam15,unknown,unknown,Atlantic,"Clam Beach, SC",Clam_U04_R1.fastq
+36,Clam,Clam_U05_R1.fastq,Clam_U05_R2.fastq,Clam16_S36_L001_R1_001_trimmed.fastq.gz,Clam16_S36_L001_R2_001_trimmed.fastq.gz,Clam16,unknown,unknown,Atlantic,"Clam Beach, SC",Clam_U05_R1.fastq
+37,Clam,Clam_U06_R1.fastq,Clam_U06_R2.fastq,Clamextras_S60_L001_R1_001_trimmed.fastq.gz,Clamextras_S60_L001_R2_001_trimmed.fastq.gz,Clamextras,unknown,unknown,Atlantic,"Clam Beach, SC",Clam_U06_R1.fastq
+38,FL,FL_P_F01_R1.fastq,FL_P_F01_R2.fastq,FL_M9_10_S58_L003_R1_001_trimmedF.fastq.gz,FL_M9_10_S58_L003_R2_001_trimmedF.fastq.gz,FL_M9_10,P,female,Atlantic,"Fort Pierce, FL",FL_P_F01_R1.fastq
+39,FL,FL_P_F02_R1.fastq,FL_P_F02_R2.fastq,FL_M9_9_S62_L001_R1_001_trimmed.fastq.gz,FL_M9_9_S62_L001_R2_001_trimmed.fastq.gz,FL_M9_9,P,female,Atlantic,"Fort Pierce, FL",FL_P_F02_R1.fastq
+40,FL,FL_P_F03_R1.fastq,FL_P_F03_R2.fastq,FL_M9_8_S56_L003_R1_001_trimmedF.fastq.gz,FL_M9_8_S56_L003_R2_001_trimmedF.fastq.gz,FL_M9_8,P,female,Atlantic,"Fort Pierce, FL",FL_P_F03_R1.fastq
+41,FL,FL_P_F04_R1.fastq,FL_P_F04_R2.fastq,FL_M9_6_S55_L003_R1_001_trimmedF.fastq.gz,FL_M9_6_S55_L003_R2_001_trimmedF.fastq.gz,FL_M9_6,P,female,Atlantic,"Fort Pierce, FL",FL_P_F04_R1.fastq
+42,FL,FL_P_F05_R1.fastq,FL_P_F05_R2.fastq,FL_M9_3_S61_L001_R1_001_trimmed.fastq.gz,FL_M9_3_S61_L001_R2_001_trimmed.fastq.gz,FL_M9_3,P,female,Atlantic,"Fort Pierce, FL",FL_P_F05_R1.fastq
+43,FL,FL_P_F06_R1.fastq,FL_P_F06_R2.fastq,FL_M9_4_S54_L003_R1_001_trimmedF.fastq.gz,FL_M9_4_S54_L003_R2_001_trimmedF.fastq.gz,FL_M9_4,P,female,Atlantic,"Fort Pierce, FL",FL_P_F06_R1.fastq
+44,FL,FL_P_U01_R1.fastq,FL_P_U01_R2.fastq,FL_M9_F_S64_L003_R1_001_trimmedF.fastq.gz,FL_M9_F_S64_L003_R2_001_trimmedF.fastq.gz,FL_M9_F,P,unknown,Atlantic,"Fort Pierce, FL",FL_P_U01_R1.fastq
+45,FL,FL_P_U02_R1.fastq,FL_P_U02_R2.fastq,FL_M9_E_S63_L003_R1_001_trimmedF.fastq.gz,FL_M9_E_S63_L003_R2_001_trimmedF.fastq.gz,FL_M9_E,P,unknown,Atlantic,"Fort Pierce, FL",FL_P_U02_R1.fastq
+46,FL,FL_P_U03_R1.fastq,FL_P_U03_R2.fastq,FL_M9_D_S62_L003_R1_001_trimmedF.fastq.gz,FL_M9_D_S62_L003_R2_001_trimmedF.fastq.gz,FL_M9_D,P,unknown,Atlantic,"Fort Pierce, FL",FL_P_U03_R1.fastq
+47,FL,FL_P_U04_R1.fastq,FL_P_U04_R2.fastq,FL_M9_C_S61_L003_R1_001_trimmedF.fastq.gz,FL_M9_C_S61_L003_R2_001_trimmedF.fastq.gz,FL_M9_C,P,unknown,Atlantic,"Fort Pierce, FL",FL_P_U04_R1.fastq
+48,FL,FL_P_U05_R1.fastq,FL_P_U05_R2.fastq,FL_M9_B_S60_L003_R1_001_trimmedF.fastq.gz,FL_M9_B_S60_L003_R2_001_trimmedF.fastq.gz,FL_M9_B,P,unknown,Atlantic,"Fort Pierce, FL",FL_P_U05_R1.fastq
+49,FL,FL_P_U06_R1.fastq,FL_P_U06_R2.fastq,FL_M9_A_S71_L001_R1_001_trimmed.fastq.gz,FL_M9_A_S71_L001_R2_001_trimmed.fastq.gz,FL_M9_A,P,unknown,Atlantic,"Fort Pierce, FL",FL_P_U06_R1.fastq
+50,Gal,Gal_L_F01_R1.fastq,Gal_L_F01_R2.fastq,TX_L_7F_S5_L001_R1_001_trimmed.fastq.gz,TX_L_7F_S5_L001_R2_001_trimmed.fastq.gz,TX_L_7F,L,female,Gulf,"Galveston, TX",Gal_L_F01_R1.fastq
+51,Gal,Gal_L_F02_R1.fastq,Gal_L_F02_R2.fastq,TX_L_9F_S6_L001_R1_001_trimmed.fastq.gz,TX_L_9F_S6_L001_R2_001_trimmed.fastq.gz,TX_L_9F,L,female,Gulf,"Galveston, TX",Gal_L_F02_R1.fastq
+52,Gal,Gal_L_F03_R1.fastq,Gal_L_F03_R2.fastq,TX_L_11F_S7_L001_R1_001_trimmed.fastq.gz,TX_L_11F_S7_L001_R2_001_trimmed.fastq.gz,TX_L_11F,L,female,Gulf,"Galveston, TX",Gal_L_F03_R1.fastq
+53,Gal,Gal_L_F04_R1.fastq,Gal_L_F04_R2.fastq,TX_L_13F_S8_L001_R1_001_trimmed.fastq.gz,TX_L_13F_S8_L001_R2_001_trimmed.fastq.gz,TX_L_13F,L,female,Gulf,"Galveston, TX",Gal_L_F04_R1.fastq
+54,Gal,Gal_L_F05_R1.fastq,Gal_L_F05_R2.fastq,TX_L_14F_S9_L001_R1_001_trimmed.fastq.gz,TX_L_14F_S9_L001_R2_001_trimmed.fastq.gz,TX_L_14F,L,female,Gulf,"Galveston, TX",Gal_L_F05_R1.fastq
+55,Gal,Gal_L_F06_R1.fastq,Gal_L_F06_R2.fastq,TX_L_15F_S10_L001_R1_001_trimmed.fastq.gz,TX_L_15F_S10_L001_R2_001_trimmed.fastq.gz,TX_L_15F,L,female,Gulf,"Galveston, TX",Gal_L_F06_R1.fastq
+56,Gal,Gal_L_F07_R1.fastq,Gal_L_F07_R2.fastq,TX_L_16F_S11_L001_R1_001_trimmed.fastq.gz,TX_L_16F_S11_L001_R2_001_trimmed.fastq.gz,TX_L_16F,L,female,Gulf,"Galveston, TX",Gal_L_F07_R1.fastq
+57,Gal,Gal_L_F08_R1.fastq,Gal_L_F08_R2.fastq,TX_L_17F_S12_L001_R1_001_trimmed.fastq.gz,TX_L_17F_S12_L001_R2_001_trimmed.fastq.gz,TX_L_17F,L,female,Gulf,"Galveston, TX",Gal_L_F08_R1.fastq
+58,Gal,Gal_L_F09_R1.fastq,Gal_L_F09_R2.fastq,TX_L_18F_S13_L001_R1_001_trimmed.fastq.gz,TX_L_18F_S13_L001_R2_001_trimmed.fastq.gz,TX_L_18F,L,female,Gulf,"Galveston, TX",Gal_L_F09_R1.fastq
+59,Gal,Gal_L_F10_R1.fastq,Gal_L_F10_R2.fastq,TX_L_19F_S14_L001_R1_001_trimmed.fastq.gz,TX_L_19F_S14_L001_R2_001_trimmed.fastq.gz,TX_L_19F,L,female,Gulf,"Galveston, TX",Gal_L_F10_R1.fastq
+60,Gal,Gal_L_M01_R1.fastq,Gal_L_M01_R2.fastq,TX_L_1M_S15_L001_R1_001_trimmed.fastq.gz,TX_L_1M_S15_L001_R2_001_trimmed.fastq.gz,TX_L_1M,L,male,Gulf,"Galveston, TX",Gal_L_M01_R1.fastq
+61,Gal,Gal_L_M02_R1.fastq,Gal_L_M02_R2.fastq,TX_L_2M_S16_L001_R1_001_trimmed.fastq.gz,TX_L_2M_S16_L001_R2_001_trimmed.fastq.gz,TX_L_2M,L,male,Gulf,"Galveston, TX",Gal_L_M02_R1.fastq
+62,Gal,Gal_L_M03_R1.fastq,Gal_L_M03_R2.fastq,TX_L_3M_S17_L001_R1_001_trimmed.fastq.gz,TX_L_3M_S17_L001_R2_001_trimmed.fastq.gz,TX_L_3M,L,male,Gulf,"Galveston, TX",Gal_L_M03_R1.fastq
+63,Gal,Gal_L_M04_R1.fastq,Gal_L_M04_R2.fastq,TX_L_4M_S18_L001_R1_001_trimmed.fastq.gz,TX_L_4M_S18_L001_R2_001_trimmed.fastq.gz,TX_L_4M,L,male,Gulf,"Galveston, TX",Gal_L_M04_R1.fastq
+64,Gal,Gal_L_U01_R1.fastq,Gal_L_U01_R2.fastq,TX_L_1_S1_L001_R1_001_trimmed.fastq.gz,TX_L_1_S1_L001_R2_001_trimmed.fastq.gz,TX_L_1,L,unknown,Gulf,"Galveston, TX",Gal_L_U01_R1.fastq
+65,Gal,Gal_L_U02_R1.fastq,Gal_L_U02_R2.fastq,TX_L_3_S2_L001_R1_001_trimmed.fastq.gz,TX_L_3_S2_L001_R2_001_trimmed.fastq.gz,TX_L_3,L,unknown,Gulf,"Galveston, TX",Gal_L_U02_R1.fastq
+66,Gal,Gal_L_U03_R1.fastq,Gal_L_U03_R2.fastq,TX_L_4_S3_L001_R1_001_trimmed.fastq.gz,TX_L_4_S3_L001_R2_001_trimmed.fastq.gz,TX_L_4,L,unknown,Gulf,"Galveston, TX",Gal_L_U03_R1.fastq
+67,Gal,Gal_L_U04_R1.fastq,Gal_L_U04_R2.fastq,TX_L_5_S4_L001_R1_001_trimmed.fastq.gz,TX_L_5_S4_L001_R2_001_trimmed.fastq.gz,TX_L_5,L,unknown,Gulf,"Galveston, TX",Gal_L_U04_R1.fastq
+68,LBA,LBA_L_F01_R1.fastq,LBA_L_F01_R2.fastq,LBA_F_1_S44_L001_R1_001_trimmed.fastq.gz,LBA_F_1_S44_L001_R2_001_trimmed.fastq.gz,LBA_F_1,L,female,West Coast,"Long Beach, CA",LBA_L_F01_R1.fastq
+69,LBA,LBA_L_F02_R1.fastq,LBA_L_F02_R2.fastq,LBA_F_5_S45_L001_R1_001_trimmed.fastq.gz,LBA_F_5_S45_L001_R2_001_trimmed.fastq.gz,LBA_F_5,L,female,West Coast,"Long Beach, CA",LBA_L_F02_R1.fastq
+70,LBA,LBA_L_F03_R1.fastq,LBA_L_F03_R2.fastq,LBA_F_7_S46_L001_R1_001_trimmed.fastq.gz,LBA_F_7_S46_L001_R2_001_trimmed.fastq.gz,LBA_F_7,L,female,West Coast,"Long Beach, CA",LBA_L_F03_R1.fastq
+71,LBA,LBA_L_F04_R1.fastq,LBA_L_F04_R2.fastq,LBA_F_13_S47_L001_R1_001_trimmed.fastq.gz,LBA_F_13_S47_L001_R2_001_trimmed.fastq.gz,LBA_F_13,L,female,West Coast,"Long Beach, CA",LBA_L_F04_R1.fastq
+72,LBA,LBA_L_F05_R1.fastq,LBA_L_F05_R2.fastq,LBA_F_14t_S48_L001_R1_001_trimmed.fastq.gz,LBA_F_14t_S48_L001_R2_001_trimmed.fastq.gz,LBA_F_14t,L,female,West Coast,"Long Beach, CA",LBA_L_F05_R1.fastq
+73,LBA,LBA_L_F06_R1.fastq,LBA_L_F06_R2.fastq,LBA_F_18_S50_L001_R1_001_trimmed.fastq.gz,LBA_F_18_S50_L001_R2_001_trimmed.fastq.gz,LBA_F_18,L,female,West Coast,"Long Beach, CA",LBA_L_F06_R1.fastq
+74,LBA,LBA_L_F07_R1.fastq,LBA_L_F07_R2.fastq,LBA_1F_S51_L001_R1_001_trimmed.fastq.gz,LBA_1F_S51_L001_R2_001_trimmed.fastq.gz,LBA_1F,L,female,West Coast,"Long Beach, CA",LBA_L_F07_R1.fastq
+75,LBA,LBA_L_F08_R1.fastq,LBA_L_F08_R2.fastq,LBA_2F_S52_L001_R1_001_trimmed.fastq.gz,LBA_2F_S52_L001_R2_001_trimmed.fastq.gz,LBA_2F,L,female,West Coast,"Long Beach, CA",LBA_L_F08_R1.fastq
+76,LBA,LBA_L_F09_R1.fastq,LBA_L_F09_R2.fastq,LBA_3F_S53_L001_R1_001_trimmed.fastq.gz,LBA_3F_S53_L001_R2_001_trimmed.fastq.gz,LBA_3F,L,female,West Coast,"Long Beach, CA",LBA_L_F09_R1.fastq
+77,LBA,LBA_L_F10_R1.fastq,LBA_L_F10_R2.fastq,LBA_4F_S54_L001_R1_001_trimmed.fastq.gz,LBA_4F_S54_L001_R2_001_trimmed.fastq.gz,LBA_4F,L,female,West Coast,"Long Beach, CA",LBA_L_F10_R1.fastq
+78,LBA,LBA_L_F11_R1.fastq,LBA_L_F11_R2.fastq,LBA_5F_S55_L001_R1_001_trimmed.fastq.gz,LBA_5F_S55_L001_R2_001_trimmed.fastq.gz,LBA_5F,L,female,West Coast,"Long Beach, CA",LBA_L_F11_R1.fastq
+79,LBA,LBA_L_F12_R1.fastq,LBA_L_F12_R2.fastq,LBA_6F_S56_L001_R1_001_trimmed.fastq.gz,LBA_6F_S56_L001_R2_001_trimmed.fastq.gz,LBA_6F,L,female,West Coast,"Long Beach, CA",LBA_L_F12_R1.fastq
+80,LBA,LBA_L_F13_R1.fastq,LBA_L_F13_R2.fastq,LBA_7F_S57_L001_R1_001_trimmed.fastq.gz,LBA_7F_S57_L001_R2_001_trimmed.fastq.gz,LBA_7F,L,female,West Coast,"Long Beach, CA",LBA_L_F13_R1.fastq
+81,Moss,Moss_L_F01_R1.fastq,Moss_L_F01_R2.fastq,MOSS723_DF_S77_L003_R1_001_trimmedF.fastq.gz,MOSS723_DF_S77_L003_R2_001_trimmedF.fastq.gz,MOSS723_DF,L,female,West Coast,"Moss Landing, CA",Moss_L_F01_R1.fastq
+82,Moss,Moss_L_F02_R1.fastq,Moss_L_F02_R2.fastq,MOSS723_15_S76_L003_R1_001_trimmedF.fastq.gz,MOSS723_15_S76_L003_R2_001_trimmedF.fastq.gz,MOSS723_15,L,female,West Coast,"Moss Landing, CA",Moss_L_F02_R1.fastq
+83,Moss,Moss_L_F03_R1.fastq,Moss_L_F03_R2.fastq,MOSS723_13_S75_L003_R1_001_trimmedF.fastq.gz,MOSS723_13_S75_L003_R2_001_trimmedF.fastq.gz,MOSS723_13,L,female,West Coast,"Moss Landing, CA",Moss_L_F03_R1.fastq
+84,Moss,Moss_L_F04_R1.fastq,Moss_L_F04_R2.fastq,MOSS723_12_S74_L003_R1_001_trimmedF.fastq.gz,MOSS723_12_S74_L003_R2_001_trimmedF.fastq.gz,MOSS723_12,L,female,West Coast,"Moss Landing, CA",Moss_L_F04_R1.fastq
+85,Moss,Moss_L_F05_R1.fastq,Moss_L_F05_R2.fastq,MOSS723_11_S73_L003_R1_001_trimmedF.fastq.gz,MOSS723_11_S73_L003_R2_001_trimmedF.fastq.gz,MOSS723_11,L,female,West Coast,"Moss Landing, CA",Moss_L_F05_R1.fastq
+86,Moss,Moss_L_F06_R1.fastq,Moss_L_F06_R2.fastq,MOSS723_10_S72_L003_R1_001_trimmedF.fastq.gz,MOSS723_10_S72_L003_R2_001_trimmedF.fastq.gz,MOSS723_10,L,female,West Coast,"Moss Landing, CA",Moss_L_F06_R1.fastq
+87,Moss,Moss_L_F07_R1.fastq,Moss_L_F07_R2.fastq,MOSS723_9_S71_L003_R1_001_trimmedF.fastq.gz,MOSS723_9_S71_L003_R2_001_trimmedF.fastq.gz,MOSS723_9,L,female,West Coast,"Moss Landing, CA",Moss_L_F07_R1.fastq
+88,Moss,Moss_L_F08_R1.fastq,Moss_L_F08_R2.fastq,MOSS723_8_S70_L003_R1_001_trimmedF.fastq.gz,MOSS723_8_S70_L003_R2_001_trimmedF.fastq.gz,MOSS723_8,L,female,West Coast,"Moss Landing, CA",Moss_L_F08_R1.fastq
+89,Moss,Moss_L_F09_R1.fastq,Moss_L_F09_R2.fastq,MOSS723_7_S69_L003_R1_001_trimmedF.fastq.gz,MOSS723_7_S69_L003_R2_001_trimmedF.fastq.gz,MOSS723_7,L,female,West Coast,"Moss Landing, CA",Moss_L_F09_R1.fastq
+90,Moss,Moss_L_F10_R1.fastq,Moss_L_F10_R2.fastq,MOSS723_6_S68_L003_R1_001_trimmedF.fastq.gz,MOSS723_6_S68_L003_R2_001_trimmedF.fastq.gz,MOSS723_6,L,female,West Coast,"Moss Landing, CA",Moss_L_F10_R1.fastq
+91,Moss,Moss_L_F11_R1.fastq,Moss_L_F11_R2.fastq,MOSS723_3_S64_L001_R1_001_trimmed.fastq.gz,MOSS723_3_S64_L001_R2_001_trimmed.fastq.gz,MOSS723_3,L,female,West Coast,"Moss Landing, CA",Moss_L_F11_R1.fastq
+92,Moss,Moss_L_F12_R1.fastq,Moss_L_F12_R2.fastq,MOSS723_2_S63_L001_R1_001_trimmed.fastq.gz,MOSS723_2_S63_L001_R2_001_trimmed.fastq.gz,MOSS723_2,L,female,West Coast,"Moss Landing, CA",Moss_L_F12_R1.fastq
+93,Moss,Moss_L_F13_R1.fastq,Moss_L_F13_R2.fastq,MOSS723_1_S69_L001_R1_001_trimmed.fastq.gz,MOSS723_1_S69_L001_R2_001_trimmed.fastq.gz,MOSS723_1,L,female,West Coast,"Moss Landing, CA",Moss_L_F13_R1.fastq
+94,Moss,Moss_L_U01_R1.fastq,Moss_L_U01_R2.fastq,MOSS723_DU_S80_L003_R1_001_trimmedF.fastq.gz,MOSS723_DU_S80_L003_R2_001_trimmedF.fastq.gz,MOSS723_DU,L,unknown,West Coast,"Moss Landing, CA",Moss_L_U01_R1.fastq
+95,Moss,Moss_L_U02_R1.fastq,Moss_L_U02_R2.fastq,MOSS723_CU_S79_L003_R1_001_trimmedF.fastq.gz,MOSS723_CU_S79_L003_R2_001_trimmedF.fastq.gz,MOSS723_CU,L,unknown,West Coast,"Moss Landing, CA",Moss_L_U02_R1.fastq
+96,Moss,Moss_L_U03_R1.fastq,Moss_L_U03_R2.fastq,MOSS723_AU_S78_L003_R1_001_trimmedF.fastq.gz,MOSS723_AU_S78_L003_R2_001_trimmedF.fastq.gz,MOSS723_AU,L,unknown,West Coast,"Moss Landing, CA",Moss_L_U03_R1.fastq
+97,Pawley,Pawley_L_F01_R1.fastq,Pawley_L_F01_R2.fastq,Pawley_L_1_F_S24_L001_R1_001_trimmed.fastq.gz,Pawley_L_1_F_S24_L001_R2_001_trimmed.fastq.gz,Pawley_L_1_F,L,female,Atlantic,"Pawleys Island, SC",Pawley_L_F01_R1.fastq
+98,Pawley,Pawley_L_F02_R1.fastq,Pawley_L_F02_R2.fastq,Pawley_L_2_F_S25_L001_R1_001_trimmed.fastq.gz,Pawley_L_2_F_S25_L001_R2_001_trimmed.fastq.gz,Pawley_L_2_F,L,female,Atlantic,"Pawleys Island, SC",Pawley_L_F02_R1.fastq
+99,Pawley,Pawley_L_F03_R1.fastq,Pawley_L_F03_R2.fastq,Pawley_L_3_F_S26_L001_R1_001_trimmed.fastq.gz,Pawley_L_3_F_S26_L001_R2_001_trimmed.fastq.gz,Pawley_L_3_F,L,female,Atlantic,"Pawleys Island, SC",Pawley_L_F03_R1.fastq
+100,Pawley,Pawley_L_F04_R1.fastq,Pawley_L_F04_R2.fastq,Pawley_L_4_F_S27_L001_R1_001_trimmed.fastq.gz,Pawley_L_4_F_S27_L001_R2_001_trimmed.fastq.gz,Pawley_L_4_F,L,female,Atlantic,"Pawleys Island, SC",Pawley_L_F04_R1.fastq
+101,Pawley,Pawley_M01_R1.fastq,Pawley_M01_R2.fastq,Pawley1_M_S37_L001_R1_001_trimmed.fastq.gz,Pawley1_M_S37_L001_R2_001_trimmed.fastq.gz,Pawley1_M,unknown,male,Atlantic,"Pawleys Island, SC",Pawley_M01_R1.fastq
+102,Pawley,Pawley_M02_R1.fastq,Pawley_M02_R2.fastq,Pawley_M2_S58_L001_R1_001_trimmed.fastq.gz,Pawley_M2_S58_L001_R2_001_trimmed.fastq.gz,Pawley_M2,unknown,male,Atlantic,"Pawleys Island, SC",Pawley_M02_R1.fastq
+103,Pawley,Pawley_M03_R1.fastq,Pawley_M03_R2.fastq,Pawley_M3_S59_L001_R1_001_trimmed.fastq.gz,Pawley_M3_S59_L001_R2_001_trimmed.fastq.gz,Pawley_M3,unknown,male,Atlantic,"Pawleys Island, SC",Pawley_M03_R1.fastq
+104,Sand,Sand_P_U01_R1.fastq,Sand_P_U01_R2.fastq,Sandwich_F_S92_L003_R1_001_trimmedF.fastq.gz,Sandwich_F_S92_L003_R2_001_trimmedF.fastq.gz,Sandwich_F,P,unknown,Atlantic,"Sandwich, MA",Sand_P_U01_R1.fastq
+105,Sand,Sand_P_U02_R1.fastq,Sand_P_U02_R2.fastq,Sandwich_E_S91_L003_R1_001_trimmedF.fastq.gz,Sandwich_E_S91_L003_R2_001_trimmedF.fastq.gz,Sandwich_E,P,unknown,Atlantic,"Sandwich, MA",Sand_P_U02_R1.fastq
+106,Sand,Sand_P_U03_R1.fastq,Sand_P_U03_R2.fastq,Sandwich_D_S90_L003_R1_001_trimmedF.fastq.gz,Sandwich_D_S90_L003_R2_001_trimmedF.fastq.gz,Sandwich_D,P,unknown,Atlantic,"Sandwich, MA",Sand_P_U03_R1.fastq
+107,Sand,Sand_P_U04_R1.fastq,Sand_P_U04_R2.fastq,Sandwich_C_S89_L003_R1_001_trimmedF.fastq.gz,Sandwich_C_S89_L003_R2_001_trimmedF.fastq.gz,Sandwich_C,P,unknown,Atlantic,"Sandwich, MA",Sand_P_U04_R1.fastq
+108,Sand,Sand_P_U05_R1.fastq,Sand_P_U05_R2.fastq,Sandwich_B_S88_L003_R1_001_trimmedF.fastq.gz,Sandwich_B_S88_L003_R2_001_trimmedF.fastq.gz,Sandwich_B,P,unknown,Atlantic,"Sandwich, MA",Sand_P_U05_R1.fastq
+109,Sand,Sand_P_U06_R1.fastq,Sand_P_U06_R2.fastq,Sandwich_A_S87_L003_R1_001_trimmedF.fastq.gz,Sandwich_A_S87_L003_R2_001_trimmedF.fastq.gz,Sandwich_A,P,unknown,Atlantic,"Sandwich, MA",Sand_P_U06_R1.fastq
+110,UNCW,UNCW_P_F01_R1.fastq,UNCW_P_F01_R2.fastq,UNCW623_23_S52_L003_R1_001_trimmedF.fastq.gz,UNCW623_23_S52_L003_R2_001_trimmedF.fastq.gz,UNCW623_23,P,female,Atlantic,"Wilmington, NC",UNCW_P_F01_R1.fastq
+111,UNCW,UNCW_P_F02_R1.fastq,UNCW_P_F02_R2.fastq,UNCW623_22_S51_L003_R1_001_trimmedF.fastq.gz,UNCW623_22_S51_L003_R2_001_trimmedF.fastq.gz,UNCW623_22,P,female,Atlantic,"Wilmington, NC",UNCW_P_F02_R1.fastq
+112,UNCW,UNCW_P_F03_R1.fastq,UNCW_P_F03_R2.fastq,UNCW623_20_S50_L003_R1_001_trimmedF.fastq.gz,UNCW623_20_S50_L003_R2_001_trimmedF.fastq.gz,UNCW623_20,P,female,Atlantic,"Wilmington, NC",UNCW_P_F03_R1.fastq
+113,UNCW,UNCW_P_F04_R1.fastq,UNCW_P_F04_R2.fastq,UNCW623_19_S49_L003_R1_001_trimmedF.fastq.gz,UNCW623_19_S49_L003_R2_001_trimmedF.fastq.gz,UNCW623_19,P,female,Atlantic,"Wilmington, NC",UNCW_P_F04_R1.fastq
+114,UNCW,UNCW_P_F05_R1.fastq,UNCW_P_F05_R2.fastq,UNCW623_16_S48_L003_R1_001_trimmedF.fastq.gz,UNCW623_16_S48_L003_R2_001_trimmedF.fastq.gz,UNCW623_16,P,female,Atlantic,"Wilmington, NC",UNCW_P_F05_R1.fastq
+115,UNCW,UNCW_P_F06_R1.fastq,UNCW_P_F06_R2.fastq,UNCW623_15_S47_L003_R1_001_trimmedF.fastq.gz,UNCW623_15_S47_L003_R2_001_trimmedF.fastq.gz,UNCW623_15,P,female,Atlantic,"Wilmington, NC",UNCW_P_F06_R1.fastq
+116,UNCW,UNCW_P_F07_R1.fastq,UNCW_P_F07_R2.fastq,UNCW623_14_S46_L003_R1_001_trimmedF.fastq.gz,UNCW623_14_S46_L003_R2_001_trimmedF.fastq.gz,UNCW623_14,P,female,Atlantic,"Wilmington, NC",UNCW_P_F07_R1.fastq
+117,UNCW,UNCW_P_F08_R1.fastq,UNCW_P_F08_R2.fastq,UNCW623_13_S45_L003_R1_001_trimmedF.fastq.gz,UNCW623_13_S45_L003_R2_001_trimmedF.fastq.gz,UNCW623_13,P,female,Atlantic,"Wilmington, NC",UNCW_P_F08_R1.fastq
+118,UNCW,UNCW_P_F09_R1.fastq,UNCW_P_F09_R2.fastq,UNCW623_12_S44_L003_R1_001_trimmedF.fastq.gz,UNCW623_12_S44_L003_R2_001_trimmedF.fastq.gz,UNCW623_12,P,female,Atlantic,"Wilmington, NC",UNCW_P_F09_R1.fastq
+119,UNCW,UNCW_P_F10_R1.fastq,UNCW_P_F10_R2.fastq,UNCW623_11_S43_L003_R1_001_trimmedF.fastq.gz,UNCW623_11_S43_L003_R2_001_trimmedF.fastq.gz,UNCW623_11,P,female,Atlantic,"Wilmington, NC",UNCW_P_F10_R1.fastq
+120,UNCW,UNCW_P_F11_R1.fastq,UNCW_P_F11_R2.fastq,UNCW623_10_33_S42_L003_R1_001_trimmedF.fastq.gz,UNCW623_10_33_S42_L003_R2_001_trimmedF.fastq.gz,UNCW623_10,P,female,Atlantic,"Wilmington, NC",UNCW_P_F11_R1.fastq
+121,UNCW,UNCW_P_F12_R1.fastq,UNCW_P_F12_R2.fastq,UNCW623_9_32_S41_L003_R1_001_trimmedF.fastq.gz,UNCW623_9_32_S41_L003_R2_001_trimmedF.fastq.gz,UNCW623_9,P,female,Atlantic,"Wilmington, NC",UNCW_P_F12_R1.fastq
+122,UNCW,UNCW_P_F13_R1.fastq,UNCW_P_F13_R2.fastq,UNCW623_8_31_S40_L003_R1_001_trimmedF.fastq.gz,UNCW623_8_31_S40_L003_R2_001_trimmedF.fastq.gz,UNCW623_8,P,female,Atlantic,"Wilmington, NC",UNCW_P_F13_R1.fastq
+123,UNCW,UNCW_P_F14_R1.fastq,UNCW_P_F14_R2.fastq,UNCW623_7_19_S39_L003_R1_001_trimmedF.fastq.gz,UNCW623_7_19_S39_L003_R2_001_trimmedF.fastq.gz,UNCW623_7,P,female,Atlantic,"Wilmington, NC",UNCW_P_F14_R1.fastq
+124,UNCW,UNCW_P_F15_R1.fastq,UNCW_P_F15_R2.fastq,UNCW623_5_28_S38_L003_R1_001_trimmedF.fastq.gz,UNCW623_5_28_S38_L003_R2_001_trimmedF.fastq.gz,UNCW623_5,P,female,Atlantic,"Wilmington, NC",UNCW_P_F15_R1.fastq
+125,UNCW,UNCW_P_F16_R1.fastq,UNCW_P_F16_R2.fastq,UNCW623_4_27_S37_L003_R1_001_trimmedF.fastq.gz,UNCW623_4_27_S37_L003_R2_001_trimmedF.fastq.gz,UNCW623_4,P,female,Atlantic,"Wilmington, NC",UNCW_P_F16_R1.fastq
+126,UNCW,UNCW_P_F17_R1.fastq,UNCW_P_F17_R2.fastq,UNCW623_3_26_S36_L003_R1_001_trimmedF.fastq.gz,UNCW623_3_26_S36_L003_R2_001_trimmedF.fastq.gz,UNCW623_3,P,female,Atlantic,"Wilmington, NC",UNCW_P_F17_R1.fastq
+127,UNCW,UNCW_P_F18_R1.fastq,UNCW_P_F18_R2.fastq,UNCW623_2_25_S35_L003_R1_001_trimmedF.fastq.gz,UNCW623_2_25_S35_L003_R2_001_trimmedF.fastq.gz,UNCW623_2,P,female,Atlantic,"Wilmington, NC",UNCW_P_F18_R1.fastq
+128,UNCW,UNCW_P_F19_R1.fastq,UNCW_P_F19_R2.fastq,UNCW623_1_24_S34_L003_R1_001_trimmedF.fastq.gz,UNCW623_1_24_S34_L003_R2_001_trimmedF.fastq.gz,UNCW623_1,P,female,Atlantic,"Wilmington, NC",UNCW_P_F19_R1.fastq
+129,UNCW,UNCW_P_F20_R1.fastq,UNCW_P_F20_R2.fastq,UNCW623_EE_S33_L003_R1_001_trimmedF.fastq.gz,UNCW623_EE_S33_L003_R2_001_trimmedF.fastq.gz,UNCW623_EE,P,female,Atlantic,"Wilmington, NC",UNCW_P_F20_R1.fastq
+130,UNCW,UNCW_P_F21_R1.fastq,UNCW_P_F21_R2.fastq,UNCW623_G_S68_L001_R1_001_trimmed.fastq.gz,UNCW623_G_S68_L001_R2_001_trimmed.fastq.gz,UNCW623_G,P,female,Atlantic,"Wilmington, NC",UNCW_P_F21_R1.fastq
+131,UNCW,UNCW_P_F22_R1.fastq,UNCW_P_F22_R2.fastq,UNCW623_B_S67_L001_R1_001_trimmed.fastq.gz,UNCW623_B_S67_L001_R2_001_trimmed.fastq.gz,UNCW623_B,P,female,Atlantic,"Wilmington, NC",UNCW_P_F22_R1.fastq
+132,UNCW,UNCW_P_F23_R1.fastq,UNCW_P_F23_R2.fastq,UNCW623_Q_S30_L003_R1_001_trimmedF.fastq.gz,UNCW623_Q_S30_L003_R2_001_trimmedF.fastq.gz,UNCW623_Q,P,female,Atlantic,"Wilmington, NC",UNCW_P_F23_R1.fastq
+133,UNCW,UNCW_P_M24_R1.fastq,UNCW_P_M24_R2.fastq,UNCW623_N_S29_L003_R1_001_trimmedF.fastq.gz,UNCW623_N_S29_L003_R2_001_trimmedF.fastq.gz,UNCW623_N,P,male,Atlantic,"Wilmington, NC",UNCW_P_M24_R1.fastq
+134,UNCW,UNCW_P_M25_R1.fastq,UNCW_P_M25_R2.fastq,UNCW623_O_S28_L003_R1_001_trimmedF.fastq.gz,UNCW623_O_S28_L003_R2_001_trimmedF.fastq.gz,UNCW623_O,P,male,Atlantic,"Wilmington, NC",UNCW_P_M25_R1.fastq
+135,UNCW,UNCW_P_M26_R1.fastq,UNCW_P_M26_R2.fastq,UNCW623_U_S27_L003_R1_001_trimmedF.fastq.gz,UNCW623_U_S27_L003_R2_001_trimmedF.fastq.gz,UNCW623_U,P,male,Atlantic,"Wilmington, NC",UNCW_P_M26_R1.fastq
+136,UNCW,UNCW_P_M27_R1.fastq,UNCW_P_M27_R2.fastq,UNCW623_S_S26_L003_R1_001_trimmedF.fastq.gz,UNCW623_S_S26_L003_R2_001_trimmedF.fastq.gz,UNCW623_S,P,male,Atlantic,"Wilmington, NC",UNCW_P_M27_R1.fastq
