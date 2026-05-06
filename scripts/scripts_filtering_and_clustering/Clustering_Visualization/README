@@ -1,0 +1,3 @@
+The EIGENVEC file output by the clustering scripts can be visualized using the R script here.
+Input requirements are: the EIGENVEC file (to plot the PCA), the EIGENVAL file (to get percentage of variance), and a CSV (to enable color-coding)
+The CSV is kept here.
